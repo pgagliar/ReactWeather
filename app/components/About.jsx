@@ -1,12 +1,18 @@
 var React = require("react");
 
-$('p')
-
 var About = (props) =>{
   return(
     <div>
-      <h3>About Component</h3>
-      <p>Welcome to the about pages</p>
+      <h1 className = "text-center">About Component</h1>
+      <p>Here are the project references:</p>
+      <ul>
+        <li>
+          <a href="https://facebook.github.io/react">React documentation</a>
+        </li>
+        <li>
+          <a href="https://openweathermap.org/">Weather app documentation</a>
+        </li>
+      </ul>
     </div>
   );
 };
