@@ -1,5 +1,7 @@
 var React = require("react");
 
+$('p')
+
 var About = (props) =>{
   return(
     <div>
