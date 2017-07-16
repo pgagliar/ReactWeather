@@ -1538,7 +1538,7 @@
 /* 249 */
 /***/ function(module, exports, __webpack_require__) {
 
-	eval("var React = __webpack_require__(1);\n\nvar Examples = props => {\n  return React.createElement(\n    \"h3\",\n    null,\n    \"Examples Component !\"\n  );\n};\nmodule.exports = Examples;//@ sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjQ5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeD9iYzYzIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoXCJyZWFjdFwiKTtcblxudmFyIEV4YW1wbGVzID0gKHByb3BzKSA9PntcbiAgcmV0dXJuKFxuICAgIDxoMz5FeGFtcGxlcyBDb21wb25lbnQgITwvaDM+XG4gICk7XG59O1xubW9kdWxlLmV4cG9ydHMgPSBFeGFtcGxlcztcblxuXG5cbi8qKiBXRUJQQUNLIEZPT1RFUiAqKlxuICoqIGFwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeFxuICoqLyJdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUVBOyIsInNvdXJjZVJvb3QiOiIifQ==");
+	eval("var React = __webpack_require__(1);\n\nvar Examples = props => {\n  return React.createElement(\n    \"h3\",\n    null,\n    \"Examples\"\n  );\n};\nmodule.exports = Examples;//@ sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiMjQ5LmpzIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vL2FwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeD9iYzYzIl0sInNvdXJjZXNDb250ZW50IjpbInZhciBSZWFjdCA9IHJlcXVpcmUoXCJyZWFjdFwiKTtcblxudmFyIEV4YW1wbGVzID0gKHByb3BzKSA9PntcbiAgcmV0dXJuKFxuICAgIDxoMz5FeGFtcGxlczwvaDM+XG4gICk7XG59O1xubW9kdWxlLmV4cG9ydHMgPSBFeGFtcGxlcztcblxuXG5cbi8qKiBXRUJQQUNLIEZPT1RFUiAqKlxuICoqIGFwcC9jb21wb25lbnRzL0V4YW1wbGVzLmpzeFxuICoqLyJdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUFBO0FBQUE7QUFBQTtBQUVBOyIsInNvdXJjZVJvb3QiOiIifQ==");
 
 /***/ }
 /******/ ]);
