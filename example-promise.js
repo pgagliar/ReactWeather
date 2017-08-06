@@ -49,3 +49,25 @@ addPromise('poney',5).then(function(sum){
 }, function(err){
     console.log('error', err);
 })
+
+function getTemp(){
+  axios.get(requestUrl){
+  return new Promise(function(resolve, reject){
+    if (requestUrl.message == 202):
+      resolve()
+    else (requestUrl.message ==404):
+      reject()
+  })
+  }
+}
+
+axios.get(requestUrl).then(function(res){
+  if(res.data.cod && res.data.message){
+    throw new Error(res.data.message)
+  }else{
+    debugger;
+    return res.data.main.temp;
+  }
+},function(res){
+  throw new Error(res.data.message);
+});
